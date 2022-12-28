@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shopping-ts-card/static/css/main.c2cab247.css",
+    "main.js": "/shopping-ts-card/static/js/main.1a3416d0.js",
+    "index.html": "/shopping-ts-card/index.html",
+    "main.c2cab247.css.map": "/shopping-ts-card/static/css/main.c2cab247.css.map",
+    "main.1a3416d0.js.map": "/shopping-ts-card/static/js/main.1a3416d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.1a3416d0.js"
+  ]
+}

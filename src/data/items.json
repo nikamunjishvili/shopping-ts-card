@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "name": "Samsung galaxy",
+    "price": 699.99,
+    "imgUrl": "/imgs/mobile-1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Samsung galaxy new",
+    "price": 899,
+    "imgUrl": "/imgs/mobile.webp"
+  },
+  {
+    "id": 4,
+    "name": "iphone 13",
+    "price": 1000,
+    "imgUrl": "/imgs/mobile3.webp"
+  }, {
+    "id": 5,
+    "name": "Nokia",
+    "price": 600,
+    "imgUrl": "/imgs/mobile4.jpg"
+  }, {
+    "id": 6,
+    "name": "iphone 12",
+    "price": 400,
+    "imgUrl": "/imgs/mobile5.jpg"
+  }, {
+    "id": 7,
+    "name": "android",
+    "price": 150,
+    "imgUrl": "/imgs/mobile2.jpg"
+  }
+]
